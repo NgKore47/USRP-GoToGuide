@@ -1,6 +1,6 @@
 # Getting started with USRP's
 
-The Universal Software Radio Peripheral (USRP) is a flexible software-defined radio platform used in 5G for prototyping, testing, and developing new technologies. It enables real-time experimentation with 5G protocols and network simulations, offering high performance and adaptability for advancing wireless communications.
+The Universal Software Radio Peripheral(USRP) is a flexible software-defined radio platform used in 5G for prototyping, testing, and developing new technologies. It enables real-time experimentation with 5G protocols and network simulations, offering high performance and adaptability for advancing wireless communications.
 
 ## Install UHD in system
 
